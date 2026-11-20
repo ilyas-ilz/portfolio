@@ -312,7 +312,7 @@ export const jobs: Job[] = [
     title: "Full Stack Intern",
     org: "TechMaghi",
     place: "Kochi, Kerala",
-    when: "07/2024 – 01/2025",
+    when: "07/2024 – 02/2025",
     points: [
       "Developed full-stack features with React.js, Node.js, Express.js and MongoDB.",
       "Built admin and user dashboards for real estate listings, offers and property information.",
