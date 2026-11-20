@@ -3884,8 +3884,9 @@
     padding-left: 36px;
   }
 
+  /* centre the 36px dot on the rail (rail centre = 12px + 1px): -5 + 18 = 13 */
   .tl-dot {
-    left: 3px;
+    left: -5px;
   }
 
   .tl-head {
