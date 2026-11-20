@@ -3986,10 +3986,23 @@
     box-shadow: 0 0 8px rgba(179, 136, 255, 0.6), inset 0 0 4px rgba(179, 136, 255, 0.35);
   }
 
+  /* phones: the hollow 25% fill + 60px glow turns into a purple blur at this size.
+     Solid fill, edge stroked under it (hides Orbitron's overlapping contours), tight glow. */
   .hero-name-callout {
-    font-size: clamp(1.6rem, 7.5vw, 2.2rem);
-    letter-spacing: 0.1em;
-    margin: 0 0 0.3rem;
+    font-size: clamp(2rem, 11vw, 2.9rem);
+    letter-spacing: 0.12em;
+    margin: 0 0 0.5rem;
+    color: #f7f3ff;
+    -webkit-text-stroke: 2.5px #a855f7;
+    paint-order: stroke fill;
+    text-shadow:
+      0 0 10px rgba(179, 136, 255, 0.85),
+      0 0 26px rgba(0, 240, 255, 0.35);
+  }
+
+  /* a tap leaves :hover stuck on touch screens: keep the name solid */
+  .hero-name-callout:hover {
+    color: #f7f3ff;
   }
 
   .hero-subtitle-bar {
