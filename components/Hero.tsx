@@ -117,6 +117,22 @@ export default function Hero() {
               height={155}
               loading="eager"
             />
+            {/* phones: the 902px artwork shrinks to ~40% and its hairline outlines blur out,
+                so the same heading is set as real text (two lines, readable stroke) */}
+            <p className="hero-title-text">
+              <span className="htt-tag htt-tag-top">
+                <span className="htt-bar" aria-hidden="true" />
+                <span>A message from Earth</span>
+              </span>
+              <span className="htt-main">
+                <span>Hello fellow</span>
+                <span>galaxy member</span>
+              </span>
+              <span className="htt-tag htt-tag-bottom" aria-hidden="true">
+                <span>A message from Earth</span>
+                <span className="htt-bar" />
+              </span>
+            </p>
           </div>
 
           <h1 className="hero-name-callout" style={at(1)}>

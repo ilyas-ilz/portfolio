@@ -816,6 +816,17 @@
   animation: floatTitle 8s ease-in-out infinite alternate;
 }
 
+/* real-text version of the title artwork, used on phones only (see max-width: 640px) */
+.hero-title-text {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-title-text {
+    animation: none !important;
+  }
+}
+
 @keyframes floatTitle {
   from {
     transform: translateY(0);
@@ -3919,6 +3930,60 @@
   .hero-figma-title {
     max-width: 100%;
     height: auto;
+  }
+
+  /* the artwork's hairline outlines blur out at phone size: show real text instead */
+  .hero-title-img-wrap .hero-figma-title {
+    display: none;
+  }
+
+  .hero-title-text {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 7px;
+    margin: 0 0 14px;
+    font-family: var(--font-display), 'Orbitron', sans-serif;
+    text-transform: uppercase;
+    animation: floatTitle 8s ease-in-out infinite alternate;
+  }
+
+  .htt-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 900;
+    font-size: clamp(1.25rem, 7.6vw, 2rem);
+    line-height: 1.12;
+    letter-spacing: 0.04em;
+    /* Orbitron glyphs are built from overlapping contours: stroke under an opaque
+       fill so only the outer edge shows, not notches inside the letters */
+    color: #efe9ff;
+    -webkit-text-stroke: 2px #b388ff;
+    paint-order: stroke fill;
+    text-shadow:
+      0 0 8px rgba(179, 136, 255, 0.75),
+      0 0 22px rgba(168, 85, 247, 0.4);
+  }
+
+  .htt-tag {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 700;
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    color: #d8c8ff;
+    text-shadow: 0 0 6px rgba(179, 136, 255, 0.7);
+    white-space: nowrap;
+  }
+
+  .htt-bar {
+    flex: 1;
+    height: 7px;
+    border: 1.5px solid #b388ff;
+    border-radius: 2px;
+    box-shadow: 0 0 8px rgba(179, 136, 255, 0.6), inset 0 0 4px rgba(179, 136, 255, 0.35);
   }
 
   .hero-name-callout {
