@@ -1,0 +1,558 @@
+- generic [active] [ref=e1]:
+  - complementary "Orbital links" [ref=e2]:
+    - list [ref=e3]:
+      - listitem [ref=e4]:
+        - link "GitHub" [ref=e5] [cursor=pointer]:
+          - /url: https://github.com
+      - listitem [ref=e8]:
+        - link "LinkedIn" [ref=e9] [cursor=pointer]:
+          - /url: https://linkedin.com
+      - listitem [ref=e12]:
+        - link "Sub-space Email" [ref=e13] [cursor=pointer]:
+          - /url: mailto:ilyasibnusalam.mk@gmail.com
+  - banner [ref=e18]:
+    - generic [ref=e19]:
+      - link "Ilyas MK DEV" [ref=e20] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e22]: Ilyas MK
+        - generic [ref=e23]: DEV
+      - navigation "Primary Navigation" [ref=e24]:
+        - link "Home" [ref=e25] [cursor=pointer]:
+          - /url: "#top"
+        - link "Skills" [ref=e28] [cursor=pointer]:
+          - /url: "#skills"
+        - link "Projects" [ref=e30] [cursor=pointer]:
+          - /url: "#work"
+        - link "Experience" [ref=e32] [cursor=pointer]:
+          - /url: "#experience"
+        - link "About" [ref=e34] [cursor=pointer]:
+          - /url: "#about"
+        - link "Contact" [ref=e36] [cursor=pointer]:
+          - /url: "#contact"
+      - link "Hire Me" [ref=e39] [cursor=pointer]:
+        - /url: "#contact"
+  - main [ref=e42]:
+    - generic [ref=e43]:
+      - generic [ref=e45]:
+        - img "A MESSAGE FROM EARTH — HELLO FELLOW GALAXY MEMBER" [ref=e47]
+        - heading "I AM ILYAS" [level=1] [ref=e48]
+        - generic [ref=e49]:
+          - generic [ref=e50]: TRANSMISSION // ARCHITECTING
+          - generic [ref=e52]:
+            - generic [ref=e53]: SaaS platforms.
+            - generic [aria-hidden] [ref=e54]: REST APIs.
+            - generic [aria-hidden] [ref=e55]: AI features.
+            - generic [aria-hidden] [ref=e56]: admin dashboards.
+            - generic [aria-hidden] [ref=e57]: mobile backends.
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - link "Available for work — open contact section" [ref=e60] [cursor=pointer]:
+            - /url: "#contact"
+            - generic [ref=e62]:
+              - generic [ref=e63]:
+                - text: Available ·
+                - generic [ref=e64]: IST
+              - generic [aria-hidden] [ref=e65]: Let's talk
+          - tablist "Celestial view modes" [ref=e68]:
+            - tab "Vector Planetarium" [selected] [ref=e69] [cursor=pointer]
+            - tab "3D Celestial Core" [ref=e76] [cursor=pointer]
+            - tab "Flight Terminal" [ref=e81] [cursor=pointer]
+        - generic [ref=e85]:
+          - img "Celestial Earth Planet" [ref=e88]
+          - button [ref=e89] [cursor=pointer]:
+            - generic [ref=e90]: CLICKTO OPEN
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - generic [ref=e95]:
+              - generic [ref=e98]: Available for missions
+              - generic [ref=e99]: ·
+              - generic [ref=e100]: Malappuram, Kerala, India
+            - generic [ref=e101]: "FREQ: 1420.405 MHz // ENCRYPTED"
+          - paragraph [ref=e109]:
+            - text: Full stack developer at
+            - strong [ref=e110]: D4DX Innovations LLP
+            - text: . Navigating the space between scalable backend architectures, high-throughput REST APIs, and modern cloud platforms with
+            - strong [ref=e111]: Next.js, React, Node.js, MongoDB, MySQL & Redis
+            - text: .
+          - generic [ref=e112]:
+            - button "Explore Selected Work" [ref=e113] [cursor=pointer]
+            - link "Initiate Transmission" [ref=e117] [cursor=pointer]:
+              - /url: mailto:ilyasibnusalam.mk@gmail.com?subject=Mission%20Inquiry%20%2F%20Software%20Engineering%20Role
+          - list [ref=e122]:
+            - listitem [ref=e123]:
+              - generic [ref=e124]: SYS.STAT //
+              - generic [ref=e125]: "07"
+              - generic [ref=e126]: Products live in production
+            - listitem [ref=e127]:
+              - generic [ref=e128]: SYS.STAT //
+              - generic [ref=e129]: "02"
+              - generic [ref=e130]: Years building full stack
+            - listitem [ref=e131]:
+              - generic [ref=e132]: SYS.STAT //
+              - generic [ref=e133]: "06"
+              - generic [ref=e134]: Languages served by one app
+            - listitem [ref=e135]:
+              - generic [ref=e136]: SYS.STAT //
+              - generic [ref=e137]: "05"
+              - generic [ref=e138]: User roles in one SaaS
+        - generic "Quick Navigation and Download" [ref=e139]:
+          - link "TRANSMIT RESUME" [ref=e140] [cursor=pointer]:
+            - /url: mailto:ilyasibnusalam.mk@gmail.com?subject=Resume%20%2F%20CV%20Transmission%20Request
+          - button "Scroll to projects" [ref=e146] [cursor=pointer]:
+            - generic [ref=e149]: SCROLL TO EXPLORE
+      - generic "Technologies and frameworks I engineer with" [ref=e150]:
+        - generic [ref=e151]:
+          - list [ref=e152]:
+            - listitem [ref=e153]:
+              - generic [ref=e155]: Next.js
+            - listitem [ref=e156]:
+              - generic [ref=e158]: React.js
+            - listitem [ref=e159]:
+              - generic [ref=e161]: Node.js
+            - listitem [ref=e162]:
+              - generic [ref=e164]: Express.js
+            - listitem [ref=e165]:
+              - generic [ref=e167]: MongoDB
+            - listitem [ref=e168]:
+              - generic [ref=e170]: MySQL
+            - listitem [ref=e171]:
+              - generic [ref=e173]: Redis
+            - listitem [ref=e174]:
+              - generic [ref=e176]: TypeScript
+            - listitem [ref=e177]:
+              - generic [ref=e179]: Tailwind CSS
+            - listitem [ref=e180]:
+              - generic [ref=e182]: REST APIs
+            - listitem [ref=e183]:
+              - generic [ref=e185]: RBAC
+            - listitem [ref=e186]:
+              - generic [ref=e188]: DigitalOcean
+            - listitem [ref=e189]:
+              - generic [ref=e191]: Cloudflare R2
+            - listitem [ref=e192]:
+              - generic [ref=e194]: Google Gemini
+          - list [aria-hidden] [ref=e195]:
+            - listitem [ref=e196]:
+              - generic [ref=e198]: Next.js
+            - listitem [ref=e199]:
+              - generic [ref=e201]: React.js
+            - listitem [ref=e202]:
+              - generic [ref=e204]: Node.js
+            - listitem [ref=e205]:
+              - generic [ref=e207]: Express.js
+            - listitem [ref=e208]:
+              - generic [ref=e210]: MongoDB
+            - listitem [ref=e211]:
+              - generic [ref=e213]: MySQL
+            - listitem [ref=e214]:
+              - generic [ref=e216]: Redis
+            - listitem [ref=e217]:
+              - generic [ref=e219]: TypeScript
+            - listitem [ref=e220]:
+              - generic [ref=e222]: Tailwind CSS
+            - listitem [ref=e223]:
+              - generic [ref=e225]: REST APIs
+            - listitem [ref=e226]:
+              - generic [ref=e228]: RBAC
+            - listitem [ref=e229]:
+              - generic [ref=e231]: DigitalOcean
+            - listitem [ref=e232]:
+              - generic [ref=e234]: Cloudflare R2
+            - listitem [ref=e235]:
+              - generic [ref=e237]: Google Gemini
+    - generic [ref=e238]:
+      - generic [ref=e239] [cursor=pointer]
+      - generic [ref=e241]:
+        - img "My Projects" [ref=e243]
+        - paragraph [ref=e244]: Full-stack missions live in production. Every screen is recorded from the running product.
+        - tablist "Filter projects" [ref=e245]:
+          - tab "All 7" [selected] [ref=e246] [cursor=pointer]:
+            - generic [ref=e247]: All
+            - generic [ref=e248]: "7"
+          - tab "SaaS & AI 2" [ref=e249] [cursor=pointer]:
+            - generic [ref=e250]: SaaS & AI
+            - generic [ref=e251]: "2"
+          - tab "Platforms & Media 3" [ref=e252] [cursor=pointer]:
+            - generic [ref=e253]: Platforms & Media
+            - generic [ref=e254]: "3"
+          - tab "ERP & Systems 2" [ref=e255] [cursor=pointer]:
+            - generic [ref=e256]: ERP & Systems
+            - generic [ref=e257]: "2"
+      - generic [ref=e259]:
+        - generic [ref=e260]:
+          - generic [ref=e261]: Mission log
+          - generic [ref=e262]: 01 / 07
+        - generic [ref=e263]:
+          - list "Projects" [ref=e264]:
+            - listitem [ref=e265]:
+              - button "01 Mployedin SaaS & AI" [ref=e266] [cursor=pointer]:
+                - generic [ref=e267]: "01"
+                - generic [ref=e268]:
+                  - generic [ref=e269]: Mployedin
+                  - generic [ref=e270]: SaaS & AI
+            - listitem [ref=e273]:
+              - button "02 Thafheemul Quran Platforms & Media" [ref=e274] [cursor=pointer]:
+                - generic [ref=e275]: "02"
+                - generic [ref=e276]:
+                  - generic [ref=e277]: Thafheemul Quran
+                  - generic [ref=e278]: Platforms & Media
+            - listitem [ref=e281]:
+              - button "03 Zaitoon Kids Platforms & Media" [ref=e282] [cursor=pointer]:
+                - generic [ref=e283]: "03"
+                - generic [ref=e284]:
+                  - generic [ref=e285]: Zaitoon Kids
+                  - generic [ref=e286]: Platforms & Media
+            - listitem [ref=e289]:
+              - button "04 ZAAD ERP & Systems" [ref=e290] [cursor=pointer]:
+                - generic [ref=e291]: "04"
+                - generic [ref=e292]:
+                  - generic [ref=e293]: ZAAD
+                  - generic [ref=e294]: ERP & Systems
+            - listitem [ref=e297]:
+              - button "05 Lockshield.ae SaaS & AI" [ref=e298] [cursor=pointer]:
+                - generic [ref=e299]: "05"
+                - generic [ref=e300]:
+                  - generic [ref=e301]: Lockshield.ae
+                  - generic [ref=e302]: SaaS & AI
+            - listitem [ref=e305]:
+              - button "06 Bodhanam Platforms & Media" [ref=e306] [cursor=pointer]:
+                - generic [ref=e307]: "06"
+                - generic [ref=e308]:
+                  - generic [ref=e309]: Bodhanam
+                  - generic [ref=e310]: Platforms & Media
+            - listitem [ref=e313]:
+              - button "07 D4 Media ERP ERP & Systems" [ref=e314] [cursor=pointer]:
+                - generic [ref=e315]: "07"
+                - generic [ref=e316]:
+                  - generic [ref=e317]: D4 Media ERP
+                  - generic [ref=e318]: ERP & Systems
+          - article [ref=e321]:
+            - generic [ref=e322]:
+              - generic [ref=e323]: Live recording
+              - generic [ref=e325]:
+                - generic [ref=e326]:
+                  - generic [ref=e331]: mployedin.app
+                  - generic "Mployedin, desktop recording" [ref=e334]
+                - generic "Mployedin, phone recording" [ref=e338]
+            - generic [ref=e339]:
+              - generic [ref=e340]:
+                - generic [ref=e341]: 01 // SaaS & AI
+                - generic [ref=e342]:
+                  - button "Architecture" [ref=e343] [cursor=pointer]
+                  - link "Visit live" [ref=e347] [cursor=pointer]:
+                    - /url: https://mployedin-app-jr8h5.ondigitalocean.app
+              - heading "Mployedin" [level=3] [ref=e351]
+              - paragraph [ref=e352]: AI-powered recruitment and applicant tracking system
+              - paragraph [ref=e353]: A recruitment SaaS for Admin, Super Agent, Agent, Employer and Job Seeker roles, covering the whole path from job posting to onboarding.
+              - generic [ref=e354]:
+                - generic [ref=e355]: Key highlights
+                - list [ref=e356]:
+                  - listitem [ref=e357]: RBAC with granular permissions and workflow approvals
+                  - listitem [ref=e358]: AI resume parsing, candidate-job matching and recommendations
+              - generic [ref=e359]:
+                - generic [ref=e360]: Tech stack
+                - list [ref=e361]:
+                  - listitem [ref=e362]: Next.js
+                  - listitem [ref=e363]: Node.js
+                  - listitem [ref=e364]: Express.js
+                  - listitem [ref=e365]: MongoDB
+                  - listitem [ref=e366]: Redis
+                  - listitem [ref=e367]: RBAC
+                  - listitem [ref=e368]: REST APIs
+                  - listitem [ref=e369]: "+6"
+    - generic [ref=e370]:
+      - generic [ref=e371] [cursor=pointer]
+      - generic [ref=e372]:
+        - generic [ref=e373]:
+          - generic [ref=e374]:
+            - paragraph [ref=e375]: Pilot Profile
+            - heading "Architecting dependable systems, from core to edge" [level=2] [ref=e379]:
+              - text: Architecting dependable systems,
+              - generic [ref=e380]: from core to edge
+          - paragraph [ref=e381]: Full stack developer working with Next.js, React, Node.js, MongoDB, MySQL and Redis. I ship secure, fast web applications that real teams use every day.
+        - generic [ref=e382]:
+          - generic [ref=e388]:
+            - generic [ref=e389]: Current Mission
+            - generic [ref=e390]: Full Stack Developer at D4DX Innovations LLP
+            - generic [ref=e391]: Shipping core full-stack systems & APIs
+          - generic [ref=e397]:
+            - generic [ref=e398]: Base Coordinates
+            - generic [ref=e399]: Malappuram, Kerala, India
+            - generic [ref=e400]: 11.0510° N, 76.0711° E
+          - generic [ref=e406]:
+            - generic [ref=e407]: Telemetry Timezone
+            - generic [ref=e408]: IST
+            - generic [ref=e409]: UTC+5:30 (India Standard Time)
+          - generic [ref=e415]:
+            - generic [ref=e416]: Academic Foundation
+            - generic [ref=e417]: B-Tech in Computer Science & Engineering
+            - generic [ref=e418]: PRIST University · 2021 – 2025
+        - generic [ref=e419]:
+          - generic [ref=e420]:
+            - heading "Granular RBAC & Security" [level=3] [ref=e426]
+            - paragraph [ref=e427]: Strict permission matrices, secure JWT lifecycle, workflow approvals, and clean data isolation.
+          - generic [ref=e428]:
+            - heading "Low-Latency Caching" [level=3] [ref=e433]
+            - paragraph [ref=e434]: Strategic Redis caching, indexed MongoDB & MySQL queries, and sub-20ms REST API response times.
+          - generic [ref=e435]:
+            - heading "AI & Modern Integrations" [level=3] [ref=e441]
+            - paragraph [ref=e442]: Integrating LLMs, vector-based candidate matching, automated resume parsing, and cloud storage pipelines.
+          - generic [ref=e443]:
+            - heading "Distributed Architecture" [level=3] [ref=e450]
+            - paragraph [ref=e451]: Decoupled services, event-driven queues, horizontal scalability, and production-tested data integrity.
+    - generic [ref=e452]:
+      - generic [ref=e453] [cursor=pointer]
+      - generic [ref=e454] [cursor=pointer]
+      - generic [ref=e455]:
+        - generic [ref=e456]:
+          - img "MY SKILLS" [ref=e458]
+          - img "Here is a list of some of my skills" [ref=e460]
+          - paragraph [ref=e461]: Mission-tested full stack capabilities spanning distributed systems, relational & NoSQL architectures, high-throughput REST APIs, and responsive micro-frontends.
+        - generic [ref=e462]:
+          - generic [ref=e463]:
+            - generic [ref=e470]:
+              - heading "Languages" [level=3] [ref=e471]
+              - generic [ref=e472]: 3 competencies
+            - list [ref=e473]:
+              - listitem [ref=e474]:
+                - generic [ref=e476]: JavaScript (ES6+)
+              - listitem [ref=e477]:
+                - generic [ref=e479]: TypeScript
+              - listitem [ref=e480]:
+                - generic [ref=e482]: SQL
+          - generic [ref=e483]:
+            - generic [ref=e490]:
+              - heading "Frontend" [level=3] [ref=e491]
+              - generic [ref=e492]: 6 competencies
+            - list [ref=e493]:
+              - listitem [ref=e494]:
+                - generic [ref=e496]: React.js
+              - listitem [ref=e497]:
+                - generic [ref=e499]: Next.js
+              - listitem [ref=e500]:
+                - generic [ref=e502]: HTML5
+              - listitem [ref=e503]:
+                - generic [ref=e505]: CSS3
+              - listitem [ref=e506]:
+                - generic [ref=e508]: Tailwind CSS
+              - listitem [ref=e509]:
+                - generic [ref=e511]: Redux Toolkit
+          - generic [ref=e512]:
+            - generic [ref=e518]:
+              - heading "Backend" [level=3] [ref=e519]
+              - generic [ref=e520]: 5 competencies
+            - list [ref=e521]:
+              - listitem [ref=e522]:
+                - generic [ref=e524]: Node.js
+              - listitem [ref=e525]:
+                - generic [ref=e527]: Express.js
+              - listitem [ref=e528]:
+                - generic [ref=e530]: REST APIs
+              - listitem [ref=e531]:
+                - generic [ref=e533]: JWT Authentication
+              - listitem [ref=e534]:
+                - generic [ref=e536]: RBAC
+          - generic [ref=e537]:
+            - generic [ref=e544]:
+              - heading "Database" [level=3] [ref=e545]
+              - generic [ref=e546]: 3 competencies
+            - list [ref=e547]:
+              - listitem [ref=e548]:
+                - generic [ref=e550]: MongoDB
+              - listitem [ref=e551]:
+                - generic [ref=e553]: MySQL
+              - listitem [ref=e554]:
+                - generic [ref=e556]: Redis
+          - generic [ref=e557]:
+            - generic [ref=e562]:
+              - heading "Cloud and DevOps" [level=3] [ref=e563]
+              - generic [ref=e564]: 5 competencies
+            - list [ref=e565]:
+              - listitem [ref=e566]:
+                - generic [ref=e568]: DigitalOcean
+              - listitem [ref=e569]:
+                - generic [ref=e571]: DigitalOcean Spaces
+              - listitem [ref=e572]:
+                - generic [ref=e574]: Cloudflare R2
+              - listitem [ref=e575]:
+                - generic [ref=e577]: Netlify
+              - listitem [ref=e578]:
+                - generic [ref=e580]: Vercel
+          - generic [ref=e581]:
+            - generic [ref=e587]:
+              - heading "AI and integrations" [level=3] [ref=e588]
+              - generic [ref=e589]: 7 competencies
+            - list [ref=e590]:
+              - listitem [ref=e591]:
+                - generic [ref=e593]: OpenRouter
+              - listitem [ref=e594]:
+                - generic [ref=e596]: Google Gemini
+              - listitem [ref=e597]:
+                - generic [ref=e599]: Muse
+              - listitem [ref=e600]:
+                - generic [ref=e602]: AI API Integration
+              - listitem [ref=e603]:
+                - generic [ref=e605]: Resume Parsing
+              - listitem [ref=e606]:
+                - generic [ref=e608]: Candidate Matching
+              - listitem [ref=e609]:
+                - generic [ref=e611]: Job Recommendations
+          - generic [ref=e612]:
+            - generic [ref=e618]:
+              - heading "SEO" [level=3] [ref=e619]
+              - generic [ref=e620]: 6 competencies
+            - list [ref=e621]:
+              - listitem [ref=e622]:
+                - generic [ref=e624]: Technical SEO
+              - listitem [ref=e625]:
+                - generic [ref=e627]: On-Page SEO
+              - listitem [ref=e628]:
+                - generic [ref=e630]: Next.js Metadata
+              - listitem [ref=e631]:
+                - generic [ref=e633]: XML Sitemaps
+              - listitem [ref=e634]:
+                - generic [ref=e636]: Structured Data (JSON-LD)
+              - listitem [ref=e637]:
+                - generic [ref=e639]: Search Engine Indexing
+          - generic [ref=e640]:
+            - generic [ref=e645]:
+              - heading "Tools" [level=3] [ref=e646]
+              - generic [ref=e647]: 4 competencies
+            - list [ref=e648]:
+              - listitem [ref=e649]:
+                - generic [ref=e651]: Git
+              - listitem [ref=e652]:
+                - generic [ref=e654]: GitHub
+              - listitem [ref=e655]:
+                - generic [ref=e657]: VS Code
+              - listitem [ref=e658]:
+                - generic [ref=e660]: Postman
+    - generic [ref=e661]:
+      - generic [ref=e662] [cursor=pointer]
+      - generic [ref=e663] [cursor=pointer]
+      - generic [ref=e664]:
+        - generic [ref=e665]:
+          - img "MY WORK EXPERIENCE" [ref=e667]
+          - paragraph [ref=e668]: Mission log spanning production SaaS architectures, multi-tenant database scaling, and agile sprint deliveries.
+        - list [ref=e671]:
+          - listitem [ref=e672]:
+            - article [ref=e675]:
+              - generic [ref=e676]:
+                - generic [ref=e677]:
+                  - generic [ref=e678]: CURRENT MISSION
+                  - heading "MERN Stack Developer" [level=3] [ref=e680]
+                  - paragraph [ref=e681]:
+                    - strong [ref=e682]: D4DX Innovations LLP
+                    - text: ·
+                    - generic [ref=e683]: Calicut, India
+                - generic [ref=e687]: 09/2025 – Present
+              - list [ref=e690]:
+                - listitem [ref=e691]:
+                  - generic [ref=e692]: Develop and maintain full-stack web applications with Next.js, React.js, Node.js, Express.js, MongoDB and MySQL.
+                - listitem [ref=e693]:
+                  - generic [ref=e694]: Contribute to an AI-powered recruitment platform with RBAC, candidate management, job workflows and document management.
+                - listitem [ref=e695]:
+                  - generic [ref=e696]: Build and optimize RESTful APIs, authentication mechanisms and database operations for scalability and performance.
+              - button "+3 more milestones" [ref=e697] [cursor=pointer]
+          - listitem [ref=e700]:
+            - article [ref=e703]:
+              - generic [ref=e704]:
+                - generic [ref=e705]:
+                  - generic [ref=e706]: EARLY MISSION
+                  - heading "Full Stack Intern" [level=3] [ref=e708]
+                  - paragraph [ref=e709]:
+                    - strong [ref=e710]: TechMaghi
+                    - text: ·
+                    - generic [ref=e711]: Kochi, Kerala
+                - generic [ref=e715]: 07/2024 – 01/2025
+              - list [ref=e718]:
+                - listitem [ref=e719]:
+                  - generic [ref=e720]: Developed full-stack features with React.js, Node.js, Express.js and MongoDB.
+                - listitem [ref=e721]:
+                  - generic [ref=e722]: Built admin and user dashboards for real estate listings, offers and property information.
+                - listitem [ref=e723]:
+                  - generic [ref=e724]: Implemented secure CRUD operations, authentication workflows and role-based access controls.
+              - button "+3 more milestones" [ref=e725] [cursor=pointer]
+        - generic [ref=e728]:
+          - article [ref=e729]:
+            - generic [ref=e735]:
+              - generic [ref=e736]: Academic foundation
+              - heading "B-Tech, Computer Science and Engineering" [level=3] [ref=e737]
+            - generic [ref=e738]:
+              - paragraph [ref=e739]: Ponnaiyah Ramajayam Institute of Science & Technology
+              - paragraph [ref=e740]:
+                - generic [ref=e741]: Tamil Nadu
+                - generic [ref=e742]: 06/2021 – 07/2025
+            - list [ref=e743]:
+              - listitem [ref=e744]:
+                - generic [ref=e745]:
+                  - generic [ref=e746]: MERN Stack Development
+                  - text: TechMaghi
+                - generic [ref=e747]: 07/2024 – 06/2025
+              - listitem [ref=e748]:
+                - generic [ref=e749]:
+                  - generic [ref=e750]: Higher Secondary Education
+                  - text: GJHSS Naduvattom
+                - generic [ref=e751]: 2018 – 2020
+          - article [ref=e752]:
+            - generic [ref=e758]:
+              - generic [ref=e759]: Professional accreditations
+              - heading "Certifications & Training" [level=3] [ref=e760]
+            - list [ref=e761]:
+              - listitem [ref=e762]: Application Development using Flutter
+              - listitem [ref=e764]: Cyber Security and Ethical Hacking Workshop
+    - generic [ref=e766]:
+      - generic [ref=e767] [cursor=pointer]
+      - generic [ref=e768] [cursor=pointer]
+      - generic [ref=e769]:
+        - generic [ref=e770]:
+          - img "CONTACT ME" [ref=e772]
+          - paragraph [ref=e773]: Have a new mission, SaaS platform, or full stack engineering challenge? Send a subspace transmission.
+        - generic [ref=e774]:
+          - generic [ref=e776]:
+            - generic [ref=e777]: SUB-SPACE TRANSMISSION LINK // ACTIVE
+            - heading "Have an ambitious mission in mind? Let's engineer it into orbit." [level=2] [ref=e785]: Have an ambitious mission in mind?Let's engineer it into orbit.
+            - paragraph [ref=e786]: Available for full-time software engineering roles, high-impact SaaS development, or technical architecture consulting. Typical transmission response time is within 24 hours.
+            - generic [ref=e787]:
+              - link "Initiate Transmission" [ref=e788] [cursor=pointer]:
+                - /url: mailto:ilyasibnusalam.mk@gmail.com?subject=Mission%20Briefing%20%2F%20Software%20Engineering%20Role&body=Hi%20Ilyas%2C%0A%0AI%20reviewed%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project%20or%20engineering%20role%20regarding%3A%0A%0A
+              - link "Direct Mail Channel" [ref=e793] [cursor=pointer]:
+                - /url: mailto:ilyasibnusalam.mk@gmail.com?subject=Quick%20Project%20Inquiry
+          - generic [ref=e798]:
+            - button "Direct Email Click to copy ilyasibnusalam.mk@gmail.com" [ref=e799] [cursor=pointer]:
+              - generic [ref=e800]:
+                - generic [ref=e801]: Direct Email
+                - generic [ref=e802]: Click to copy
+              - generic [ref=e806]: ilyasibnusalam.mk@gmail.com
+            - generic [ref=e807]:
+              - generic [ref=e808]: Mission Availability
+              - generic [ref=e813]: Open for Engineering Roles
+            - generic [ref=e814]:
+              - generic [ref=e815]: Base Coordinates
+              - generic [ref=e820]: Malappuram, Kerala, India
+  - contentinfo [ref=e821]:
+    - generic [ref=e822]:
+      - generic [ref=e823]:
+        - generic [ref=e824]:
+          - link "Ilyas MK" [ref=e825] [cursor=pointer]:
+            - /url: "#top"
+          - paragraph [ref=e827]: All systems operational
+        - navigation "Footer navigation" [ref=e829]:
+          - link "Work" [ref=e830] [cursor=pointer]:
+            - /url: "#work"
+          - link "About" [ref=e831] [cursor=pointer]:
+            - /url: "#about"
+          - link "Experience" [ref=e832] [cursor=pointer]:
+            - /url: "#experience"
+          - link "Contact" [ref=e833] [cursor=pointer]:
+            - /url: "#contact"
+          - link "Email" [ref=e834] [cursor=pointer]:
+            - /url: mailto:ilyasibnusalam.mk@gmail.com
+      - generic [ref=e838]:
+        - generic [ref=e839]: © 2026 Muhammed Ilyas MK · Built with Next.js, Three.js & anime.js
+        - generic [ref=e840]: Malappuram, Kerala, India · IST
+  - complementary "Flight guide":
+    - 'button "Flight guide: section 1 of 6, Home. Show guide" [ref=e841] [cursor=pointer]':
+      - generic [ref=e842]: 1/6
+  - button "Open Next.js Dev Tools" [ref=e848] [cursor=pointer]
